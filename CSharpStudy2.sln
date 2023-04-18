@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpStudy2", "CSharpStudy2\CSharpStudy2.csproj", "{FFFCDF56-7E68-4D2F-984B-520782A11FF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpStudyDifferentDllTest", "CSharpStudyDifferentDllTest\CSharpStudyDifferentDllTest.csproj", "{7DF07285-2B15-4012-95D9-C59B744DA69E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFFCDF56-7E68-4D2F-984B-520782A11FF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFFCDF56-7E68-4D2F-984B-520782A11FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFFCDF56-7E68-4D2F-984B-520782A11FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFFCDF56-7E68-4D2F-984B-520782A11FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DF07285-2B15-4012-95D9-C59B744DA69E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF07285-2B15-4012-95D9-C59B744DA69E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF07285-2B15-4012-95D9-C59B744DA69E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF07285-2B15-4012-95D9-C59B744DA69E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E14517A-6559-4593-A48A-445B49ABB423}
+	EndGlobalSection
+EndGlobal
